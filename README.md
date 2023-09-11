@@ -10,3 +10,5 @@ It will provide a convenient, one-stop solution for students, faculty, and
 staff to order food, medicine, and grocery items online. 
 This will not only save time but also ensure the availability of 
 essential items for the campus community. 
+You can also see my workflow diagram: 
+https://drive.google.com/file/d/1u7OE1MVZSKgAqT6X3KSk91iYOFxaxJ7H/view?usp=sharing
