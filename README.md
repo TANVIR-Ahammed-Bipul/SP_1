@@ -12,3 +12,5 @@ This will not only save time but also ensure the availability of
 essential items for the campus community. 
 You can also see my workflow diagram: 
 https://drive.google.com/file/d/1u7OE1MVZSKgAqT6X3KSk91iYOFxaxJ7H/view?usp=sharing
+Here is my app prototype:
+https://www.figma.com/file/GuveCl0hmsle4YatO3RMpY/SP_2?type=design&node-id=0%3A1&mode=design&t=5dIj7cCDTACcBbtf-1
